@@ -1,0 +1,25 @@
+# PlatformIO
+.pio/
+.pio_conf/
+
+# IDE
+.vscode/
+.idea/
+
+# AI tools
+.claude/
+.opencode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build
+*.elf
+*.hex
+*.bin
