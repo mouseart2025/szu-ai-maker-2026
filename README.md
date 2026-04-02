@@ -50,11 +50,13 @@ szu-ai-maker-2026/
 │   ├── wio-terminal.md
 │   └── xiao-esp32s3.md
 ├── examples/               # 已验证的示例项目
-│   ├── 01-led-blink/
-│   ├── 02-button-led/
-│   └── 03-sensor-oled/
+│   ├── 01-led-blink/       # Grove: LED 闪烁
+│   ├── 02-button-led/      # Grove: 按钮控 LED
+│   ├── 03-sensor-oled/     # Grove: 传感器 + OLED
+│   └── 04-wio-hello-screen/# Wio Terminal: 屏幕验证
 ├── templates/              # 项目模板
-│   └── grove-project/
+│   ├── grove-project/      # Grove Beginner Kit 项目模板
+│   └── wio-terminal-project/ # Wio Terminal 项目模板
 └── students/               # 学生项目目录
 ```
 
